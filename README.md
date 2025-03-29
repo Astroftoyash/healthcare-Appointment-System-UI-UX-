@@ -17,4 +17,4 @@ This repository contains the **UI/UX design** for a **Healthcare Appointment Sys
 
 ## 📥 Clone the Repository  
 ```bash
-git clone https://github.com/your-username/Healthcare-Appointment-System.git
+git clone https://github.com/Astroftoyash/healthcare-Appointment-System-UI-UX-.git
